@@ -16,7 +16,7 @@ public class User {
 
 	public User() {
 	}
-
+        //constructor
 	public User(String username, String password, String email, String phone, String address) {
 		super();
 		this.username = username;
